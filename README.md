@@ -12,3 +12,7 @@ The contact form opens a prefilled email draft in the visitor’s email app. The
 - `resume.pdf` — public resume with phone number removed
 
 This static site has no server, database, or third-party form processor.
+
+Link to GitLab Pages: https://alloylovessteel.github.io/resume/
+
+
